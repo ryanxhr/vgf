@@ -11,7 +11,7 @@
 </div>
 
 
-<img src="assets/vgf.png" width="90%">
+<img src="assets/vgf.png" width="100%">
 
 </div>
 
@@ -31,9 +31,9 @@ To use D4RL environments, you need to additionally set up MuJoCo 2.1.0.
 
 ## Usage
 
-Paper reuslts can be reproduced by running `./run_scripts/run_vgf_off_d4rl.sh`, `./run_scripts/run_vgf_off_ogbench.sh` and `./run_scripts/run_vgf_off2on_ogbench.sh`.
+Paper results can be reproduced by running `./run_scripts/run_vgf_off_d4rl.sh`, `./run_scripts/run_vgf_off_ogbench.sh`, `./run_scripts/run_vgf_off2on_ogbench.sh`.
 
-Runs can be found at [here](https://wandb.ai/ryanxhr/vgf_camera_ready_off2on?nw=nwuserryanxhr)
+Wandb runs can be found at [here](https://wandb.ai/ryanxhr/vgf_camera_ready_off2on?nw=nwuserryanxhr)
 
 ## Acknowledgments
 
